@@ -6,7 +6,7 @@
 
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=sportshead&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-My discord: sportzpikachu#4613
+My discord: sportzpikachu#4613  
 Feel free to DM me any time!
 
 <!--
