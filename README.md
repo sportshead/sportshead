@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ⚡ Fun fact: Some people know me as sportzpikachu!
+
 😄 Pronouns: he/him
 
 [![sportshead's github stats](https://github-readme-stats.vercel.app/api?username=sportshead)](https://github.com/anuraghazra/github-readme-stats)
